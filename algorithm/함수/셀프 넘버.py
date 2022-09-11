@@ -36,3 +36,18 @@ print(*num_3, sep='\n')
 #         pass
     
 # print(result)
+
+# result = [i for i in range(1, 10001)]
+# number = 0
+# number_list = []
+# new_list = []
+# for i in result:
+#     number_list.clear() #number_list라는 값을 항상 초기화
+#     number_list = list(str(i)) #number_list에 차례대로 더해야 하니 분리시켜 문자열로 만든 다음 list에 넣는다
+#     number_list = list(map(int, number_list)) #리스트로 되어버린 값을 int로 변환
+#     number = i + sum(number_list) #각각의 값과 i 값을 더하여 number에 넣음
+#     new_list.append(number) #new_list에 첨부
+# self_number = set(result) - set(new_list) #차집합   
+# self_number = list(self_number) #집합을 리스트로 변환
+# self_number.sort() #리스트 정렬
+# print(*self_number,sep="\n") #모든 숫자에 대해서 ,을 대신 \n을 붙임
