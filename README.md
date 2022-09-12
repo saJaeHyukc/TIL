@@ -1,6 +1,7 @@
 # TIL(Every day coding dairy)
 ### algorithm
 - 백준 알고리즘을 꾸준히 단계별로 풀고 있습니다
+- 단계별로 푸는 것이 아직 익숙하지 않아 등급별 풉니다!
 ### Django
 - 유데미 장고 강의를 듣고 실습하는 과제입니다
 ### Jump to python algoritm
