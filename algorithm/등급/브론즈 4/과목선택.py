@@ -1,0 +1,10 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+e = (a+b+c+d)-min(a,b,c,d)
+f = int(input())
+g = int(input())
+h = (f+g) - min(f,g)
+
+print(e+h)
