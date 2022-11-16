@@ -26,3 +26,6 @@ print(x) #None은 파이썬에서 아무것도 없는 상태를 나타내는 자
 
 #map을 사용하여 정수로 변환하기
 #변수1, 변수2 = map(int, input().split())
+
+#입력받은 값을 콤마를 기준으로 분리하기
+#a, b = map(int, input().split(',')
