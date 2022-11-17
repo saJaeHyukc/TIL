@@ -4,18 +4,11 @@
 [모르는 것 정리](https://github.com/saJaeHyukc/TIL/tree/main/python%20coding%20dojang/unit5)
 
 <details>
-<summary>여기를 눌러주세요</summary>
-<div markdown="1">
-
-[모르는 것 정리](https://github.com/saJaeHyukc/TIL/tree/main/python%20coding%20dojang/unit5)
-
-</div>
-</details>
-
-<details>
 <summary>Unit 5 숫자 계산하기 </summary>
-<div markdown="1">       
-[ 모르는 것 정리 ](https://github.com/saJaeHyukc/TIL/tree/main/python%20coding%20dojang/unit5)
+<div markdown="1">      
+ 
+[ 모르는 것 정리 ](https:
+//github.com/saJaeHyukc/TIL/tree/main/python%20coding%20dojang/unit5)
 </div>
 </details>
 
