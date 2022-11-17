@@ -2,7 +2,7 @@
 <details>
 <summary>Unit 5 숫자 계산하기 </summary>
 <div markdown="1">       
-[모르는 것 정리](https://github.com/saJaeHyukc/TIL/tree/main/python%20coding%20dojang/unit5/)
+[모르는 것 정리](https://github.com/saJaeHyukc/TIL/tree/main/python%20coding%20dojang/unit5)
 </div>
 </details>
 
