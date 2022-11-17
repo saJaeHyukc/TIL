@@ -27,3 +27,12 @@
 
 </div>
 </details>
+
+<details>
+<summary>Unit 8 불과 비교, 논리 연산자 알아보기 </summary>
+<div markdown="4">       
+
+[모르는 것 정리](https://github.com/saJaeHyukc/TIL/tree/main/python%20coding%20dojang/unit8/)
+
+</div>
+</details>
